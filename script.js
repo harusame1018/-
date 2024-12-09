@@ -1,6 +1,6 @@
+let mondai = [];
+let kotae = [];
 window.onload = function() {
-    let mondai = [];
-    let kotae = [];
     let question = document.getElementById("question");
     let anser = document.getElementById("anser");
     let sousin = document.getElementById("sousin");
